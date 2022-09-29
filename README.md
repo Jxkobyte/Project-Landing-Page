@@ -1,5 +1,7 @@
 # Project Landing Page
 
+The site is live at: https://jakobi832.github.io/Project-Landing-Page/ 
+
 Generic Landing page project, using alot of flexboxs and divs lol
 Did this on the work computers, so no access to git, hence the lack of project history
 Might revamp it later into my own thing
